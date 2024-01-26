@@ -1,25 +1,19 @@
-# Realtime-Chat-App
-## A simple realtime chat app, that has these features : 
+# REALTIME CHAT APP
 
- 1 - Log in with your email and password, or create a new account, to start your chat.
- ##
- 2 - The app shows the status of the other users (Online, Offline).
- ##
- 3 - You can select any user to start the chat with.
- ##
- 4 - You can also search for a specific user to chat with him.
- ##
- 5 - You can also log out from the chat app. Then, you'll be redirected to the login page and your status will be offline for the other online users. 
- ##
+A simple realtime chat app with the following features:
 
-## The App has built with : 
-##
- 1 - HTML
- ##
- 2 - Tailwind framework and CSS for the style
- ##
- 3 - JAVASCRIPT (used AJAX to make the app realtime).
- ##
- 4 - PHP
- ##
- 5 - XAMPP 
+1. **Log in**: Users can log in with their email and password or create a new account to start chatting.
+2. **User Status**: The app displays the status of other users as Online or Offline.
+3. **User Selection**: Users can select any online user to start a chat with.
+4. **Search Functionality**: Users can search for a specific user to initiate a chat.
+5. **Log Out**: Users can log out from the chat app, redirecting them to the login page and setting their status as offline for other users.
+
+## Technologies Used:
+
+- HTML
+- Tailwind CSS framework for styling
+- JavaScript (utilizing AJAX for real-time functionality)
+- PHP
+- XAMPP
+
+Feel free to explore and contribute to this simple yet effective realtime chat application!
