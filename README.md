@@ -1,7 +1,7 @@
 # Realtime-Chat-App
 ## A simple realtime chat app, that has these features : 
 
- 1 - Log in with your email and password, or create a new account, to start your chat.
+ 1 - Log in with your email and password, or create a new account, to start your chat.<br />
  2 - The app shows the status of the other users (Online, Offline). 
  3 - You can select any user to start the chat with. 
  4 - You can also search for a specific user to chat with him.
